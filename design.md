@@ -26,3 +26,11 @@ User → Input Interface (Text/Voice)
 - WhatsApp & IVR integration
 - State-wise scheme filtering
 - Voice-only mode for non-literate users
+
+- ## User Roles
+- Citizen: Searches and understands schemes
+- Admin: Updates scheme information
+
+## Constraints
+- Must work on low-end Android phones
+- Should support low internet connectivity
