@@ -34,3 +34,9 @@ User → Input Interface (Text/Voice)
 ## Constraints
 - Must work on low-end Android phones
 - Should support low internet connectivity
+
+## Modules
+- Input Module (Text/Voice)
+- NLP Processing Module
+- Scheme Matching Engine
+- Language Response Generator
